@@ -42,3 +42,16 @@ sudo rm -r /opt/lampp
 ## Experiments:
 
 ![experiments](./php-lab-exp.png)
+
+## Programs I wrote in file:
+
+- wap print "hello"
+- wap prime numbers till 50
+- wap greatest of 3 nums with switch-case
+- wap factorial using recursion
+- wap factorial using while
+- wap calc_avg() for 4 subjects marks
+- 7
+- 8
+- 9
+- 10
