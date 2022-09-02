@@ -4,17 +4,20 @@ for the sake of college, semester 4.
 
 ## How to run:
 
-```
 START:
 
+```
 sudo /opt/lampp/lampp start
+```
 
 STOP:
 
+```
 sudo /opt/lampp/lampp stop
 ```
 
-OPEN `localhost/php-lab/expN` to run
+- Clone repo to `htdocs` folder.
+- OPEN `localhost/php-lab/exp$n` to run
 
 By default on Linux, `htdocs` folder is not writeable. Give permissions safely with:
 
