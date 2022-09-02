@@ -14,6 +14,8 @@ STOP:
 sudo /opt/lampp/lampp stop
 ```
 
+OPEN `localhost/php-lab/expN` to run
+
 By default on Linux, `htdocs` folder is not writeable. Give permissions safely with:
 
 RUN `whoami` and replace `user` in the next command:
