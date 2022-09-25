@@ -51,7 +51,7 @@ sudo rm -r /opt/lampp
 - wap factorial using recursion
 - wap factorial using while
 - wap calc_avg() for 4 subjects marks
-- 7
-- 8
-- 9
-- 10
+- `exp6`
+- `exp11`
+- `exp12`
+- wap swap 2 values
