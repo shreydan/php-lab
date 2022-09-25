@@ -53,5 +53,5 @@ sudo rm -r /opt/lampp
 - wap calc_avg() for 4 subjects marks
 - `exp6`
 - `exp11`
-- `exp12`
+- `exp13`
 - wap swap 2 values
